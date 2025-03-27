@@ -6,7 +6,7 @@ export default function Sobre() {
     <View>
 
       <Stack.Screen options={{
-        ttle: 'Sobre',
+        ttle: 'SOBRE',
         headerStyle: {
           backgroundColor: '#800e13',
         }
